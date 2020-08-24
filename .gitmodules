@@ -1,0 +1,12 @@
+[submodule "refinedELLEWebPortal"]
+	path = refinedELLEWebPortal
+	url = https://github.com/lint12/refinedELLEWebPortal
+[submodule "NoahCorlew-ELLE-PC-Mac-2020-Unity-Project"]
+	path = NoahCorlew-ELLE-PC-Mac-2020-Unity-Project
+	url = https://github.com/NoahCorlew/NoahCorlew-ELLE-PC-Mac-2020-Unity-Project.git
+[submodule "ELLE-Backend-2020"]
+	path = ELLE-Backend-2020
+	url = https://github.com/kaarthikalagappan/ELLE-Backend-2020.git
+[submodule "Elle-Child-s-Play"]
+	path = Elle-Child-s-Play
+	url = https://github.com/JonathanNJules/Elle-Child-s-Play
