@@ -13,6 +13,6 @@
 [submodule "ELLE-VR-2020"]
 	path = ELLE-VR-2020
 	url = https://github.com/JonathanNJules/ELLE-VR-2020.git
-[submodule "ELLE-BetterRacer-multiplayer"]
-	path = ELLE-BetterRacer-multiplayer
+[submodule "ELLE-BetterRace-Multiplayer"]
+	path = ELLE-BetterRace-Multiplayer
 	url = https://github.com/francoms3/ELLE-BetterRacer-multiplayer.git
