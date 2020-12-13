@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Account Menu.unity
+    guid: de9983dbbdef75e4eae34e3ecac6fb72
+  - enabled: 1
+    path: Assets/Scenes/Menus/New Account Menu.unity
+    guid: 15ebf1d002a925043b751e220721315c
+  - enabled: 1
+    path: Assets/Scenes/Menus/Log In.unity
+    guid: 333c1a8be778f445a942ee926f77b995
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main Menu.unity
+    guid: 3b8955cca5970144eaba31186ad682f3
+  - enabled: 1
+    path: Assets/Scenes/Menus/Deck Menu.unity
+    guid: 3e9009f85fe494142b92eec40f2ac1ea
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3db30c9a3d64d4cec92c683e1527dd57
+  - enabled: 1
+    path: Assets/Scenes/TrackMars.unity
+    guid: 39dd73fe576aa7f46b6735a5fa664b0e
+  - enabled: 1
+    path: Assets/Scenes/Menus/Settings.unity
+    guid: 92b6d6a6abf8b4b3892aebbe93c7c7df
+  - enabled: 1
+    path: Assets/Scenes/Menus/Leaderboard.unity
+    guid: 38bdda726909140909ff74a1f0a96738
+  - enabled: 1
+    path: Assets/Scenes/Menus/Garage.unity
+    guid: 871aee10b08764cf78d15fcdac6cb70e
+  m_configObjects: {}
