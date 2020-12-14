@@ -19,7 +19,8 @@ https://github.com/kaarthikalagappan/ELLE-Backend-2020
 #### Games
 ELLE Mobile:
 https://github.com/francoms3/ELLE-BetterRacer-multiplayer
-*Note ELLE-BetterRacer and ELLE-BetterRacer-multiplayer share same repo, <br \>
+
+*Note ELLE-BetterRacer and ELLE-BetterRacer-multiplayer share same repo,
 but ELLE-BetterRacer is located at this commit [7749979fc65635a05eb33530a040a3b8fb0b78c9](https://github.com/francoms3/ELLE-BetterRacer-multiplayer/tree/7749979fc65635a05eb33530a040a3b8fb0b78c9)
 
 ELLE PC:
